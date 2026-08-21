@@ -24,7 +24,7 @@ spec:
         app: next-back-convert
     spec:
       containers:
-      - image: edoiba/nextbzdpprod-back-convert:1
+      - image: edoiba/nextbzdpprod-back-convert:18467
         imagePullPolicy: IfNotPresent
         livenessProbe:
           failureThreshold: 3
