@@ -24,7 +24,7 @@ spec:
         app: next-back-ft
     spec:
       containers:
-      - image: edoiba/bzdpprod-next-back-ft:18986
+      - image: edoiba/bzdpprod-next-back-ft:18991
         imagePullPolicy: IfNotPresent
         livenessProbe:
           failureThreshold: 3
