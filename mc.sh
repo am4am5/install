@@ -1,0 +1,1 @@
+wget https://github.com/minio/mc/releases/download/RELEASE.2025-08-13T08-35-41Z/mc.linux-amd64.RELEASE.2025-08-13T08-35-41Z && cp mc.linux-amd64.RELEASE.2025-08-13T08-35-41Z /usr/bin/mc && chmod +x  /usr/bin/mc
